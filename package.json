@@ -1,0 +1,28 @@
+{
+  "name": "namste_ignite_our_app_day2",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnatb96/Namste_Ignite_Our_app_Day2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnatb96/Namste_Ignite_Our_app_Day2/issues"
+  },
+  "homepage": "https://github.com/krishnatb96/Namste_Ignite_Our_app_Day2#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
